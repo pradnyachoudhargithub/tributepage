@@ -1,0 +1,42 @@
+body {
+    background-color: rgba(122, 181, 122, 0.2);
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h1,
+#title {
+    text-shadow: 5px 5px 10px grey;
+    text-align: center;
+    font-size: 3em;
+    bottom: 0;
+}
+
+blockquote {
+    top: 1;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+}
+
+#main {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div #tribute-info {
+    box-shadow: 20px 20px 15px grey;
+    background-color: rgba(0, 0, 0, 0.2);
+    margin-top: 50px;
+    padding: 20px;
+    text-align: center;
+}
+
+#title_hedy {
+    text-align: center;
+    color: rgb(207, 74, 74);
+    text-shadow: 5px 5px 10px black;
+}
